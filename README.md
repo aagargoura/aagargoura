@@ -4,6 +4,8 @@
 
 DevOps / Cloud Operations Engineer with 10+ years of software engineering experience and a strong background in Linux-based platforms, CI/CD automation, release engineering, infrastructure reliability, and distributed-system troubleshooting. Experienced in building automated delivery workflows, release quality gates, Python/Bash automation, log analysis, RCA, QA automation, and operational documentation.
 
+I help engineering teams build reliable Linux-based infrastructure, CI/CD pipelines, release automation, and cloud operations workflows for complex software platforms.
+
 ---
 
 ## Technical Focus
@@ -11,7 +13,7 @@ DevOps / Cloud Operations Engineer with 10+ years of software engineering experi
 * **Systems:** Linux, systemd, journald, SSH, DNS, TLS, TCP/IP, logs, performance diagnostics
 * **DevOps:** CI/CD, GitHub Actions, Docker, release automation, quality gates
 * **Cloud:** AWS fundamentals, GCP Cloud Run, Cloud SQL, Cloud Storage, IAM, CloudWatch, CloudTrail
-* **Automation:** Bash, Python, scripting, operational checks, log parsing, health checks
+* **Automation:** Bash & Python scripting, operational checks, log parsing, health checks
 * **Reliability:** monitoring, alerting, runbooks, incident response, RCA, operational improvement
 * **Infrastructure:** Terraform, Ansible, Kubernetes fundamentals, Prometheus, Grafana
 
