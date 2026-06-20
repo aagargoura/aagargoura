@@ -97,5 +97,6 @@ Currently focused on:
 
 ## Connect
 
-* LinkedIn: [linkedin.com/in/aagargoura](https://www.linkedin.com/in/aagargoura)
-* GitHub: [github.com/aagargoura](https://github.com/aagargoura)
+* **LinkedIn:** [linkedin.com/in/aagargoura](https://www.linkedin.com/in/aagargoura)
+* **GitHub:** [github.com/aagargoura](https://github.com/aagargoura)
+* **Medium:** [aagargoura.medium.com](https://aagargoura.medium.com/)
