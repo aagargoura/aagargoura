@@ -29,7 +29,7 @@ A practical collection of Linux operations runbooks and Bash automation scripts 
 
 The goal is to convert repeated troubleshooting steps into documented runbooks and safe automation scripts.
 
-## Focus areas
+#### Focus areas
 - Linux troubleshooting
 - Bash automation
 - Incident response
