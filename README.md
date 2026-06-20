@@ -21,28 +21,22 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 
 ## Open Source Portfolio
 
-### Linux Ops Runbooks
+### Linux Ops Runbooks & Automation Toolkit
 
 Repository: [linux-ops-runbooks](https://github.com/aagargoura/linux-ops-runbooks)
 
-A practical collection of Linux operations runbooks and automation scripts for common production-support and CloudOps scenarios.
+A practical collection of Linux operations runbooks and Bash automation scripts for common production-support scenarios: service outages, high load, disk pressure, TLS failures, DNS issues, memory pressure, and deployment rollback.
 
-Focus areas:
+The goal is to convert repeated troubleshooting steps into documented runbooks and safe automation scripts.
 
-* service unreachable
-* high load average
-* disk full
-* memory pressure
-* SSH access failure
-* DNS resolution failure
-* TLS certificate failure
-* service not starting
-* deployment rollback
-* CloudWatch alarm investigation
-* IAM access denied
-* incident communication
-
-> Convert repeated troubleshooting steps into documented runbooks, safe automation scripts, and repeatable operational workflows.
+## Focus areas
+- Linux troubleshooting
+- Bash automation
+- Incident response
+- Runbooks
+- Monitoring readiness
+- Operational excellence
+- SRE / CloudOps preparation
 
 ---
 
