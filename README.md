@@ -19,44 +19,80 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 
 ---
 
-## Open Source Portfolio
+## DevOps & SRE Portfolio Projects
 
-### Linux Ops Runbooks & Automation Toolkit
+### Linux Operations Runbooks
 
-Repository: [linux-ops-runbooks](https://github.com/aagargoura/linux-ops-runbooks)
+A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation.
 
-A practical collection of Linux operations runbooks and Bash automation scripts for common production-support scenarios: service outages, high load, disk pressure, TLS failures, DNS issues, memory pressure, and deployment rollback.
+[View repository](https://github.com/aagargoura/linux-ops-runbooks)
 
-The goal is to convert repeated troubleshooting steps into documented runbooks and safe automation scripts.
+### Linux Secrets Production Blueprint
 
-#### Focus areas
-- Linux troubleshooting
-- Bash automation
-- Incident response
-- Runbooks
-- Monitoring readiness
-- Operational excellence
-- SRE / CloudOps preparation
+A production-oriented Linux security blueprint demonstrating runtime database credential handling with `systemd`, root-owned environment files, Docker Compose secrets, and secure application configuration patterns.
+
+[View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
+
+### GCP MLflow Platform Lab
+
+A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform.
+
+[View repository](https://github.com/aagargoura/gcp-mlflow-platform)
+
+### DevOps Bootcamp Labs
+
+A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals.
+
+[View repository](https://github.com/aagargoura/devops-bootcamp-labs)
 
 ---
 
+## Technical Stack
 
-### GCP MLflow Platform
+### Systems and Operations
 
-Repository: [gcp-mlflow-platform](https://github.com/aagargoura/gcp-mlflow-platform)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-3B82F6?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20TLS-2563EB?style=flat-square)
 
-A practical DevOps / CloudOps project for deploying an MLflow tracking platform on Google Cloud.
+### DevOps and Automation
 
-Focus areas:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-* GCP Cloud Run deployment
-* Cloud SQL PostgreSQL backend
-* Google Cloud Storage artifact storage
-* Secret Manager integration
-* IAM service accounts
-* Terraform-based infrastructure
-* minimal-cost cloud architecture
-* operational documentation and deployment workflow
+### Cloud and Observability
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Operations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud%20Run%20%7C%20Cloud%20SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Monitoring%20%7C%20KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### DevSecOps and Security
+
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Secure%20SDLC-B91C1C?style=flat-square)
+![Secrets Management](https://img.shields.io/badge/Secrets%20Management-Runtime%20Security-991B1B?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-Least%20Privilege-6D28D9?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-AppSec%20Awareness-000000?style=flat-square&logo=owasp&logoColor=white)
+
+- CI/CD pipeline hardening
+- runtime secret handling
+- Linux permission hardening
+- Docker/container security basics
+- IAM and least-privilege access
+- vulnerability management awareness
+- ISO 27001 security control awareness
+
+### Programming and Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
