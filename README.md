@@ -1,23 +1,19 @@
-# Ahmed Amine Gargoura
+# Hi, I'm Ahmed Amine Gargoura
 
-## DevOps / Cloud Operations Engineer
+**DevOps / Systems / Cloud Operations Engineer** with 10+ years of experience across Linux-based systems, embedded platforms, CI/CD automation, release engineering, infrastructure troubleshooting, and operational quality.
 
-DevOps / Cloud Operations Engineer with 10+ years of software engineering experience and a strong background in Linux-based platforms, CI/CD automation, release engineering, infrastructure reliability, and distributed-system troubleshooting. Experienced in building automated delivery workflows, release quality gates, Python/Bash automation, log analysis, RCA, QA automation, and operational documentation.
+I help engineering teams build reliable Linux-based infrastructure, CI/CD pipelines, release automation, and secure cloud operations workflows for complex software platforms.
 
-I help engineering teams build reliable Linux-based infrastructure, CI/CD pipelines, release automation, and cloud operations workflows for complex software platforms.
+## Current Focus
 
----
-
-## Technical Focus
-
-* **Systems:** Linux, systemd, journald, SSH, DNS, TLS, TCP/IP, logs, performance diagnostics
-* **DevOps:** CI/CD, GitHub Actions, Docker, release automation, quality gates
-* **Cloud:** AWS fundamentals, GCP Cloud Run, Cloud SQL, Cloud Storage, IAM, CloudWatch, CloudTrail
-* **Automation:** Bash & Python scripting, operational checks, log parsing, health checks
-* **Reliability:** monitoring, alerting, runbooks, incident response, RCA, operational improvement
-* **Infrastructure:** Terraform, Ansible, Kubernetes fundamentals, Prometheus, Grafana
-
----
+- Linux systems engineering and production operations
+- DevOps, SRE, and platform engineering practices
+- CI/CD automation with GitHub Actions, GitLab CI, and Jenkins
+- Infrastructure as Code with Terraform and Ansible
+- Cloud platforms: AWS, GCP, and Azure
+- Monitoring and observability with Prometheus, Grafana, CloudWatch, and OpenTelemetry
+- Secure deployment patterns and runtime secret handling
+- Runbooks, incident response, RCA, and operational documentation
 
 ## DevOps & SRE Portfolio Projects
 
@@ -44,8 +40,6 @@ A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run,
 A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals.
 
 [View repository](https://github.com/aagargoura/devops-bootcamp-labs)
-
----
 
 ## Technical Stack
 
@@ -94,8 +88,6 @@ A hands-on DevOps learning repository documenting practical scenarios across Lin
 ![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
----
-
 ## Professional Background
 
 ### Unity Technologies
@@ -109,8 +101,6 @@ Worked on connected-car telemetry diagnostics, distributed event analysis, Azure
 ### Audi / AKKA Germany
 
 Worked on C++/OpenSSL certificate-generation tooling, automotive ECU validation, cryptographic workflows, Python/Bash tooling, and end-to-end automation framework.
-
----
 
 ## Certifications
 
@@ -127,9 +117,6 @@ Currently focused on:
 * Certified DevOps Practitioner - TechWorld with Nana (TWN)
 * Prometheus Certified Associate - PCA
 * Kubernetes and Cloud Native Associate - KCNA
-
-
----
 
 ## Connect
 
