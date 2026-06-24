@@ -21,9 +21,8 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation. [View repository](https://github.com/aagargoura/linux-ops-runbooks)
 
 
-### Linux Secrets Production Blueprint
-
-Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls. [View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
+### The Production Linux SecureOps Blueprint
+Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls. [View repository](https://github.com/aagargoura/linux-secureops-blueprint)
 
 
 ### GCP MLflow Platform Lab
