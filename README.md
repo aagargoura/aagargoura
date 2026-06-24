@@ -17,29 +17,25 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 
 ## DevOps & SRE Portfolio Projects
 
-### Linux Operations Runbooks
+### Linux Operations Runbooks : [View repository](https://github.com/aagargoura/linux-ops-runbooks)
 
 A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation.
 
-[View repository](https://github.com/aagargoura/linux-ops-runbooks)
 
-### Linux Secrets Production Blueprint
+### Linux Secrets Production Blueprint : [View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
 
 Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls.
 
-[View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
 
-### GCP MLflow Platform Lab
+### GCP MLflow Platform Lab : [View repository](https://github.com/aagargoura/gcp-mlflow-platform)
 
 A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform.
 
-[View repository](https://github.com/aagargoura/gcp-mlflow-platform)
 
-### DevOps Bootcamp Labs
+### DevOps Bootcamp Labs : [View repository](https://github.com/aagargoura/devops-bootcamp-labs)
 
 A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals.
 
-[View repository](https://github.com/aagargoura/devops-bootcamp-labs)
 
 ## Technical Stack
 
@@ -73,14 +69,6 @@ A hands-on DevOps learning repository documenting practical scenarios across Lin
 ![IAM](https://img.shields.io/badge/IAM-Least%20Privilege-6D28D9?style=flat-square)
 ![OWASP](https://img.shields.io/badge/OWASP-AppSec%20Awareness-000000?style=flat-square&logo=owasp&logoColor=white)
 
-- CI/CD pipeline hardening
-- runtime secret handling
-- Linux permission hardening
-- Docker/container security basics
-- IAM and least-privilege access
-- vulnerability management awareness
-- ISO 27001 security control awareness
-
 ### Programming and Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -88,35 +76,20 @@ A hands-on DevOps learning repository documenting practical scenarios across Lin
 ![Go](https://img.shields.io/badge/Go-Learning-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Professional Background
-
-### Unity Technologies
-
-Senior Software Engineer focused on embedded Linux/QNX platform validation, CI/CD automation, release workflows, infrastructure automation, log analysis, root-cause analysis, and operational process improvement.
-
-### BMW Group / Cognizant Mobility
-
-Worked on connected-car telemetry diagnostics, distributed event analysis, Azure Data Explorer, KQL, SQL, Python tooling, and backend/system troubleshooting.
-
-### Audi / AKKA Germany
-
-Worked on C++/OpenSSL certificate-generation tooling, automotive ECU validation, cryptographic workflows, Python/Bash tooling, and end-to-end automation framework.
-
 ## Certifications
-
-Completed:
-
-* Linux Foundation Certified IT Associate — LFCA
-* ISTQB Certified Tester Foundation Level — CTFL
-* C Programming Language Certified Associate — CLA
-
-Currently focused on:
 
 * AWS Certified Cloud Practitioner — CLF-C02
 * Linux Foundation Certified System Administrator — LFCS
-* Certified DevOps Practitioner - TechWorld with Nana (TWN)
+* Linux Foundation Certified IT Associate — LFCA
+* ISTQB Certified Tester Foundation Level — CTFL
+* C Programming Language Certified Associate — CLA
+* Cisco Certified Network Associate - CCNA
+
 * Prometheus Certified Associate - PCA
 * Kubernetes and Cloud Native Associate - KCNA
+* Certified Argo Project Associate - CAPA
+
+
 
 ## Connect
 
