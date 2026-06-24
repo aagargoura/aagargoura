@@ -15,7 +15,7 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 - Secure deployment patterns and runtime secret handling
 - Runbooks, incident response, RCA, and operational documentation
 
-## DevOps & SRE Portfolio Projects
+## Infrastructure, DevOps & Security Portfolio
 
 ### Linux Operations Runbooks
 A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation. [View repository](https://github.com/aagargoura/linux-ops-runbooks)
