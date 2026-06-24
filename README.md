@@ -30,9 +30,9 @@ Production-grade guidance, examples, and operational practices for securing Linu
 A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform. [View repository](https://github.com/aagargoura/gcp-mlflow-platform)
 
 
-### DevOps Bootcamp Labs
+### DevOps Bootcamp Labs (Hosted in GitLab)
 
-A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals. [View repository](https://github.com/aagargoura/devops-bootcamp-labs)
+A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals. [View GitLab repository](https://gitlab.com/aagargoura/devops-bootcamp-labs)
 
 ## Certifications
 
