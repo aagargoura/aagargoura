@@ -25,7 +25,7 @@ A practical DevOps/SRE runbook repository covering Linux service checks, disk ch
 
 ### Linux Secrets Production Blueprint
 
-A production-oriented Linux security blueprint demonstrating runtime database credential handling with `systemd`, root-owned environment files, Docker Compose secrets, and secure application configuration patterns.
+Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls.
 
 [View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
 
