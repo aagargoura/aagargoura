@@ -17,24 +17,23 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 
 ## DevOps & SRE Portfolio Projects
 
-### Linux Operations Runbooks : [View repository](https://github.com/aagargoura/linux-ops-runbooks)
-
-A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation.
-
-
-### Linux Secrets Production Blueprint : [View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
-
-Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls.
+### Linux Operations Runbooks
+A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation. [View repository](https://github.com/aagargoura/linux-ops-runbooks)
 
 
-### GCP MLflow Platform Lab : [View repository](https://github.com/aagargoura/gcp-mlflow-platform)
+### Linux Secrets Production Blueprint
 
-A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform.
+Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls. [View repository](https://github.com/aagargoura/linux-secrets-prod-blueprint)
 
 
-### DevOps Bootcamp Labs : [View repository](https://github.com/aagargoura/devops-bootcamp-labs)
+### GCP MLflow Platform Lab
 
-A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals.
+A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform. [View repository](https://github.com/aagargoura/gcp-mlflow-platform)
+
+
+### DevOps Bootcamp Labs
+
+A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals. [View repository](https://github.com/aagargoura/devops-bootcamp-labs)
 
 
 ## Technical Stack
@@ -78,18 +77,16 @@ A hands-on DevOps learning repository documenting practical scenarios across Lin
 
 ## Certifications
 
-* AWS Certified Cloud Practitioner — CLF-C02
-* Linux Foundation Certified System Administrator — LFCS
-* Linux Foundation Certified IT Associate — LFCA
-* ISTQB Certified Tester Foundation Level — CTFL
-* C Programming Language Certified Associate — CLA
+* AWS Certified Cloud Practitioner - CLF-C02
+* Linux Foundation Certified System Administrator - LFCS
+* Linux Foundation Certified IT Associate - LFCA
+* ISTQB Certified Tester Foundation Level - CTFL
+* C Programming Language Certified Associate - CLA
 * Cisco Certified Network Associate - CCNA
 
 * Prometheus Certified Associate - PCA
 * Kubernetes and Cloud Native Associate - KCNA
 * Certified Argo Project Associate - CAPA
-
-
 
 ## Connect
 
