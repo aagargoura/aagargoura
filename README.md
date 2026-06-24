@@ -15,24 +15,14 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 - Secure deployment patterns and runtime secret handling
 - Runbooks, incident response, RCA, and operational documentation
 
-## Infrastructure, DevOps & Security Portfolio
+## Featured DevOps / SRE / DevSecOps Portfolio
 
-### Linux Operations Runbooks
-A practical DevOps/SRE runbook repository covering Linux service checks, disk checks, port checks, troubleshooting steps, escalation paths, and operational documentation. [View repository](https://github.com/aagargoura/linux-ops-runbooks)
-
-
-### The Production Linux SecureOps Blueprint
-Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls. [View repository](https://github.com/aagargoura/linux-secureops-blueprint)
-
-
-### GCP MLflow Platform Lab
-
-A cloud infrastructure lab for deploying MLflow on Google Cloud using Cloud Run, Cloud SQL, GCS, Secret Manager, Artifact Registry, and Terraform. [View repository](https://github.com/aagargoura/gcp-mlflow-platform)
-
-
-### DevOps Bootcamp Labs (Hosted in GitLab)
-
-A hands-on DevOps learning repository documenting practical scenarios across Linux, Docker, CI/CD, cloud infrastructure, Kubernetes, Terraform, Ansible, monitoring, observability, and DevSecOps fundamentals. [View GitLab repository](https://gitlab.com/aagargoura/devops-bootcamp-labs)
+| Repository | Project | What it demonstrates | Core skills |
+|---|---|---|---|
+| [GitHub](https://github.com/aagargoura/linux-ops-runbooks) | `linux-ops-runbooks` | Linux operations, incident response, diagnostics, and production support procedures | Linux, Bash, SRE, troubleshooting |
+| [GitHub](https://github.com/aagargoura/linux-secureops-blueprint) | `linux-secureops-blueprint` | Secure Linux service configuration, secrets handling, and hardening practices | Linux hardening, systemd, SSH, DevSecOps |
+| [GitHub](https://github.com/aagargoura/gcp-mlflow-platform) | `gcp-mlflow-platform` | Cloud platform deployment using Terraform and managed GCP services | GCP, Terraform, IAM, Cloud Run |
+| [GitLab](https://github.com/aagargoura/devops-bootcamp-labs) | `devops-bootcamp-labs` | Structured DevOps learning labs with hands-on infrastructure and automation exercises | AWS, Docker, CI/CD, Kubernetes, Terraform, Ansible, Observability |
 
 ## Certifications
 
