@@ -22,7 +22,7 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 | [GitHub](https://github.com/aagargoura/linux-ops-runbooks) | `linux-ops-runbooks` | Linux operations, incident response, diagnostics, and production support procedures | Linux, Bash, SRE, troubleshooting |
 | [GitHub](https://github.com/aagargoura/linux-secureops-blueprint) | `linux-secureops-blueprint` | Secure Linux service configuration, secrets handling, and hardening practices | Linux hardening, systemd, SSH, DevSecOps |
 | [GitHub](https://github.com/aagargoura/gcp-mlflow-platform) | `gcp-mlflow-platform` | Cloud platform deployment using Terraform and managed GCP services | GCP, Terraform, IAM, Cloud Run |
-| [GitLab](https://gitlab.com/aagargoura/devops-bootcamp-labs) | `devops-bootcamp-labs` | Structured DevOps learning labs with hands-on infrastructure and automation exercises | AWS, Docker, CI/CD, Kubernetes, Terraform, Ansible, Observability |
+| [GitLab](https://gitlab.com/devops-bootcamp-labs) | `devops-bootcamp-labs` | Structured DevOps learning labs with hands-on infrastructure and automation exercises | AWS, Docker, CI/CD, Kubernetes, Terraform, Ansible, Observability |
 
 ## Certifications
 
