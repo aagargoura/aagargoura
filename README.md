@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Amine Gargoura 👋
 
-**DevOps / Systems / Cloud Operations Engineer** with 10+ years of experience across Linux-based systems, embedded platforms, CI/CD automation, release engineering, infrastructure troubleshooting, and operational quality.
+** Test Automation/ Systems / DevOps Engineer** with 10+ years of experience across Linux-based systems, embedded platforms, CI/CD automation, release engineering, infrastructure troubleshooting, and operational quality.
 
 I help engineering teams build reliable Linux-based infrastructure, CI/CD pipelines, release automation, and secure cloud operations workflows for complex software platforms.
 
