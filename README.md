@@ -25,19 +25,6 @@ I help engineering teams build reliable Linux-based infrastructure, CI/CD pipeli
 - Secure deployment patterns and runtime secret handling
 - Runbooks, incident response, RCA, and operational documentation
 
-## Certifications
-
-* AWS Certified Cloud Practitioner - CLF-C02
-* Linux Foundation Certified System Administrator - LFCS
-* Linux Foundation Certified IT Associate - LFCA
-* ISTQB Certified Tester Foundation Level - CTFL
-* C Programming Language Certified Associate - CLA
-* Cisco Certified Network Associate - CCNA
-
-* Prometheus Certified Associate - PCA
-* Kubernetes and Cloud Native Associate - KCNA
-* Certified Argo Project Associate - CAPA
-
 ## Connect
 
 * **LinkedIn:** [linkedin.com/in/aagargoura](https://www.linkedin.com/in/aagargoura)
